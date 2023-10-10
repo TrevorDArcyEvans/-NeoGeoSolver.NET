@@ -111,4 +111,4 @@ all done for the moment
 ## Acknowledgements
 This repository was forked from [BimCAD](https://github.com/BimCad-online/BimCADOnline) which
 in turn was forked from [NoteCAD](https://github.com/NoteCAD/NoteCAD);
-which I suspect was based on [geosolver-python](https://github.com/imuli/geosolver-python)
+which was inspired by [SolveSpace](https://github.com/solvespace/solvespace), although, NoteCAD was built from scratch using clean-room design technics.
